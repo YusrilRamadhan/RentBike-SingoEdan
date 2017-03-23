@@ -9,8 +9,8 @@ import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.Driver;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-/**
- *
+ 
+/**sxz
  * @author Kamandaka
  */
 public class file_koneksi {
